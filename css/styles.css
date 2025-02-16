@@ -271,7 +271,7 @@ a {
     width: 100%;
 }
 .team-item .team-subtitle {
-    padding-bottom: 8px;
+    margin-bottom: 8px;
 }
 
 .div-team {
@@ -331,6 +331,10 @@ a {
     border-left: 1px solid #e7e9fc;
     border-right: 1px solid #e7e9fc;
     padding: 32px 16px;
+}
+
+.portfolio-item .portfolio-subtitle {
+    margin-bottom: 8px;
 }
 
 .portfolio-subtitle {
